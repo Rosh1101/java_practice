@@ -1,13 +1,5 @@
-import java.util.*;
-public class hello{
- 
-
+public class arrayinput {
     public static void main(String[] args){
-        Scanner input = new Scanner(System.in);
-
-        int n = input.nextInt();
-        int [] array = new int[n];
+        System.out.println("hello");
     }
-
-
 }
